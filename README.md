@@ -70,6 +70,12 @@ java -cp src Recette
 
 ---
 
+## 📑 Diagramme de classe
+
+* J'ai mit le diagramme de classe pour aider à mieux visualiser l'ensemble de la structure du programme.
+
+---
+
 ## 🛠️ Technologies
 
 * Java 11+ (compatible avec versions récentes)
