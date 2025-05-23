@@ -98,5 +98,4 @@ Pour toute question ou suggestion, contactez-moi !
 
 ✨ Merci d’avoir consulté ce projet ! Amusez-vous bien avec les ensembles et relations mathématiques en Java ! ✨
 
-````
 
